@@ -1,0 +1,23 @@
+{
+  "name": "myNet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^1.0.0",
+    "bootstrap": "^3.3.7",
+    "fullpage": "^1.4.2",
+    "html5shiv": "^3.7.3",
+    "jquery": "^1.12.4",
+    "respond": "^0.9.0"
+  },
+  "devDependencies": {
+    "less": "^2.7.2"
+  }
+}
